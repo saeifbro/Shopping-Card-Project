@@ -7,18 +7,18 @@ Features:
 2. Remove  items from the card
 3 . Total costs of the items
 
+## Example Input/Output
 
-
-Example Input/Output:
 Welcome to our shop!
 Enter your card number: 12345
 How many items do you want to buy? 2
 Enter the name of the item: Burger
->> Added item: Burger, Price: 120
+
+Added item: Burger, Price: 120
 Enter the name of the item: Pizza
->> Added item: Pizza, Price: 100
+Added item: Pizza, Price: 100
 How many items do you want to remove? 1
 Enter the item you want to remove: Burger
->> Removed item: Burger
+Removed item: Burger
 The total price is: 100
 Thank you for coming! Please visit again!
