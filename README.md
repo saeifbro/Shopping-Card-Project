@@ -5,7 +5,8 @@ A simple Python program that manages a shopping cart. You can add items, remove 
 Features:
 1. Add items to the Card
 2. Remove  items from the card
-3 .Total costs of the items
+3 . Total costs of the items
+
 
 
 Example Input/Output:
