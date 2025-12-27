@@ -10,13 +10,6 @@ Features:
 
 
 Example Input/Output:
-
-
-
-
-
-
-
 Welcome to our shop!
 Enter your card number: 12345
 How many items do you want to buy? 2
