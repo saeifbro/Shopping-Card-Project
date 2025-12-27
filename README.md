@@ -7,6 +7,9 @@ Features:
 2. Remove  items from the card
 3 . Total costs of the items
 
+
+
+
 ## Example Input/Output
 
 Welcome to our shop!
